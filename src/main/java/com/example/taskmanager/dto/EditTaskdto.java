@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 public class EditTaskdto {
 
-    private String newTask;
+    private String newTask; //new task message
     private LocalDateTime newDuedatetime;
     private String newPriority;
 
